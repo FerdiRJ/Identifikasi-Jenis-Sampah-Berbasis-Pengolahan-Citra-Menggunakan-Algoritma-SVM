@@ -1,6 +1,5 @@
 # Identifikasi-Jenis-Sampah-Berbasis-Pengolahan-Citra-Menggunakan-Algoritma-SVM
-Repositori ini berisi proyek Ujian Akhir Semester S1 Sains Data Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Negeri Surabaya dengan topik **“Identifikasi Jenis Sampah Berbasis Pengolahan Citra”**. Proyek ini bertujuan untuk mengembangkan sistem pendeteksi jenis sampah menggunakan teknologi pengolahan citra dan algoritma machine learning.
-
+Proyek ini bertujuan untuk mengembangkan sistem pendeteksi jenis sampah menggunakan teknologi pengolahan citra dan algoritma machine learning.
 ## Deskripsi
 
 Masalah sampah merupakan isu lingkungan yang mendesak di Indonesia dengan volume sampah yang terus meningkat setiap tahun. Pada tahun 2022, Indonesia menghasilkan 35,93 juta ton sampah, meningkat 22,04% dari tahun sebelumnya. Untuk mengatasi masalah ini, daur ulang sampah secara efektif sangat penting, dan identifikasi jenis sampah merupakan langkah awal yang krusial.
