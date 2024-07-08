@@ -1,0 +1,1 @@
+# Identifikasi-Jenis-Sampah-Berbasis-Pengolahan-Citra-Menggunakan-Algoritma-SVM
